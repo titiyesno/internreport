@@ -1,6 +1,6 @@
 # internreport
 
-revisi 
+revisi </br>
 1. cover (done) </br>
 2. semua bullet diganti sama strip (done) </br>
 3. gambar hirarki perusahaan digedein (done) </br>
@@ -14,5 +14,5 @@ revisi
 11. kesimpulan -> menjawab rumusan masalah </br>
 
 
-urutan dalam bab analisis dan perancangan
+urutan dalam bab analisis dan perancangan </br>
 use case -> activity diagram -> Desain Interface -> class diagram -> CDM/ PDM -> flowchart/ pseudocode
