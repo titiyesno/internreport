@@ -11,8 +11,8 @@ Bab 3 </br>
 3. citation daftar pustaka </br>
 Bab 4 </br>
 1. kaitan dengan sistem lain (di use case internal team dashboard) </br>
-2. rancangan user interface </br>
-3. flowchart beberapa use case </br>
-4. arsitektur internal team dashboard dan landing page meeber </br>
+2. rancangan user interface </br> (dashboard done)
+3. flowchart beberapa use case </br> (dashboard done)
+4. arsitektur internal team dashboard (done) dan landing page meeber </br>
 
  
