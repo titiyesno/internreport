@@ -4,7 +4,7 @@ revisi </br>
 Bab 1 </br>
 1. mengganti rumusan permasalahan (done)</br>
 Bab 2 </br>
-1. tambahin penjelasan ttg divisi engineering, ttg tugasnya (bisa gugling). paling nggak 1 halaman full </br>
+1. tambahin penjelasan ttg divisi engineering, ttg tugasnya (bisa gugling). paling nggak 1 halaman full (done)</br>
 Bab 3 </br>
 1. gambaran umum ttg internal team dashboard dan meeberpos landing page </br>
 2. penjelasan loopback kurang panjang </br>
